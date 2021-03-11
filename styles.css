@@ -1,19 +1,36 @@
 h1{
     text-align: center;
-    color:lightslategray;
-    font-family: fantasy
+    color:white;
+    font-family: fantasy;
+    -webkit-text-stroke: 1px rgb(98, 155, 13);
 }
-ul{
-    text-align: center;
-    color: lightslategray;
+.nav-bar{
+    color: rgb(98, 155, 13);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 p{
     text-align: center;
+    
 }
 
-.caption{
+h2{
     text-align: center;
-    margin-top: 5px;
-    font-size: x-small;
+    color: hotpink;
 }
+
+a:link{
+    color: hotpink;
+}
+a:visited{
+    color: lawngreen;
+}
+a:hover{
+    color: lightpink;
+}
+a:active{
+    color:magenta
+}
+
