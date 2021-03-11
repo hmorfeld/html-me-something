@@ -3,16 +3,29 @@ h1{
     color:white;
     font-family: fantasy;
     -webkit-text-stroke: 1px rgb(98, 155, 13);
+    margin-top: 50px;
 }
 .nav-bar{
     color: rgb(98, 155, 13);
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 200px;
+    padding-right: 100px;
+    
+}
+.nav-bar a{
+    text-align: center;
+    font-style: italic;
+    padding-left: 50px;
+    padding-right: 50px;
+    
 }
 
 p{
-    text-align: center;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
     
 }
 
@@ -34,3 +47,31 @@ a:active{
     color:magenta
 }
 
+#picture1{
+    text-align: center;
+}
+#piccap1{
+    font-style: italic;
+    font-size: 10px;
+}
+#picture2{
+    text-align: center;
+}
+#piccap2{
+    font-style: italic;
+    font-size: 10px;
+}
+#picture3{
+    text-align: center;
+}
+#piccap3{
+    font-style: italic;
+    font-size: 10px;
+}
+#picture4{
+    text-align: center;
+}
+#piccap4{
+    font-style: italic;
+    font-size: 10px;
+}
