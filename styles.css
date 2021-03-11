@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color:lightslategray;
+    font-family: fantasy
+}
+ul{
+    text-align: center;
+    color: lightslategray;
+}
+
+p{
+    text-align: center;
+}
+
+.caption{
+    text-align: center;
+    margin-top: 5px;
+    font-size: x-small;
+}
